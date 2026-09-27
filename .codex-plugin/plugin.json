@@ -1,0 +1,20 @@
+{
+  "name": "liftaven",
+  "version": "1.0.0",
+  "description": "Investigate search visibility and website engagement with connected Search Console, Analytics and Bing reports. Read website content and prepare changes for human review in Liftaven.",
+  "author": {
+    "name": "Liftaven",
+    "url": "https://liftaven.com"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Liftaven",
+    "shortDescription": "Review SEO and website data",
+    "longDescription": "Investigate search visibility and website engagement with connected Search Console, Analytics and Bing reports. Read website content and prepare changes for human review in Liftaven.",
+    "developerName": "Liftaven",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Review my connected website\u2019s search visibility and organic engagement, and suggest improvements backed by the reports."
+  }
+}

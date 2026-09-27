@@ -1,0 +1,20 @@
+{
+  "name": "liftaven",
+  "version": "1.0.1",
+  "description": "Investigate search visibility and website engagement with connected Search Console, Analytics and Bing reports. Read website content and prepare changes for human review in Liftaven.",
+  "author": {
+    "name": "Liftaven",
+    "url": "https://liftaven.com"
+  },
+  "homepage": "https://liftaven.com",
+  "repository": "https://github.com/liftaven/plugin",
+  "license": "MIT",
+  "keywords": [
+    "liftaven",
+    "seo",
+    "search-console",
+    "google-analytics",
+    "bing",
+    "mcp"
+  ]
+}
